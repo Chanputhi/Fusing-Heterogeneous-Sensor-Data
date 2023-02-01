@@ -1,2 +1,9 @@
 # Fusing-Heterogeneous-Sensor-Data
-A2I2 Fusing-Heterogeneous-Sensor-Data by CHANPUTHI TITH 11/2022 - 02/2023
+
+Applied Artificial Intelligence Institute
+Research/Project Topic: "Fusing Heterogenous Sensor Data"
+By: CHANPUTHI TITH
+Supervisor: Dr. Anj Simmons
+
+This is the Backend part of the project Fusing-Heterogeneous-Sensor-Data.
+The instruction is provided inside the code.
