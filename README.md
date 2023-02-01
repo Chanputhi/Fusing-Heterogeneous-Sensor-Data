@@ -1,6 +1,6 @@
 # Fusing-Heterogeneous-Sensor-Data
 
-Applied Artificial Intelligence Institute
+Applied Artificial Intelligence Institute (A2I2)
 
 Research/Project Topic: "Fusing Heterogenous Sensor Data"
 
