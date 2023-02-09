@@ -19,3 +19,6 @@ The instruction is provided inside the code.
 
 Student: https://www.youtube.com/watch?v=hCFyn6yruWU
 
+## License
+
+- Code is shared under the MIT License.
