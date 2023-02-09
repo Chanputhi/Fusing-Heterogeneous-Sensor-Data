@@ -14,3 +14,8 @@ This is the Backend part of the project Fusing-Heterogeneous-Sensor-Data.
 Here is the link of the Frontend part of the project: https://github.com/Chanputhi/Fusing-Heterogenous-Sensor-Data-Frontend/tree/realtime
 
 The instruction is provided inside the code.
+
+# Student Scenario
+
+Student: https://www.youtube.com/watch?v=hCFyn6yruWU
+
