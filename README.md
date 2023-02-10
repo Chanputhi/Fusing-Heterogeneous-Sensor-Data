@@ -14,6 +14,10 @@ Here is the link of the Frontend part of the project: https://github.com/Chanput
 
 The instruction is provided inside the code.
 
+## Project Diagram
+
+![FusingSensor Data - Proposed Methods Diagram](https://user-images.githubusercontent.com/71917434/217993387-8b20ed31-7db1-48e2-bd2c-a94bdcc96149.png)
+
 ## Student Scenario
 
 Student Demo: https://www.youtube.com/watch?v=hCFyn6yruWU
